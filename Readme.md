@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Угрин](https://up.htmlacademy.ru/adaptive/18/user/677469).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
